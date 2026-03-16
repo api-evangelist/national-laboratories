@@ -1,15 +1,24 @@
-name: national-laboratories
-description: Needs a description.
-image: https://kinlane-productions2.s3.amazonaws.com/apis-json-icons/apis-json.png
-url: https://example.com/apis/apis.yml
-type: Contract
+aid: national-laboratories
+name: National Laboratories
+description: >-
+  The U.S. Department of Energy's national laboratories are a network of
+  federally funded research and development centers conducting cutting-edge
+  research in energy, science, and national security.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: https://www.energy.gov/national-laboratories
 created: '2024-12-25'
-modified: '2024-12-25'
-specificationVersion: '0.18'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 tags:
-  - Tag
+  - Federal Government
+  - Research
+  - Energy
+  - Science
 apis: []
-common: []
+common:
+  - type: Website
+    url: https://www.energy.gov/national-laboratories
 maintainers:
-  - FN: API Evangelist
-    email: info@apievangelist.com
+  - FN: Kin Lane
+    email: kin@apievangelist.com
