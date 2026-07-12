@@ -17,6 +17,8 @@ tags:
   - Science
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/national-laboratories-domain-security.yml
   - type: Website
     url: https://www.energy.gov/national-laboratories
 maintainers:
