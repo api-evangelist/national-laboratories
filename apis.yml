@@ -34,7 +34,7 @@ modified: '2026-04-28'
 specificationVersion: '0.23'
 tags:
   - Energy
-  - Federal-Government
+  - Federal Government
   - Research
   - Science
 tags_raw:
@@ -42,6 +42,7 @@ tags_raw:
   - Federal Government
   - Research
   - Science
+  - Federal-Government
 apis: []
 common:
   - type: DomainSecurity
