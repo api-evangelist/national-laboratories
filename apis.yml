@@ -30,7 +30,7 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/national-laboratories.png
 url: https://www.energy.gov/national-laboratories
 created: '2024-12-25'
-modified: '2026-04-28'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 tags:
   - Energy
@@ -45,6 +45,10 @@ tags_raw:
   - Federal-Government
 apis: []
 common:
+  - url: https://www.energy.gov/newsroom
+    type: Blog
+  - url: https://www.energy.gov/rss/energygov/2193718
+    type: BlogRSS
   - type: DomainSecurity
     url: security/national-laboratories-domain-security.yml
   - type: Website
